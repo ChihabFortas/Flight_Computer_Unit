@@ -1,0 +1,6 @@
+#Build Altium files
+*.Zip
+*.SchDocPreview
+Libraries/
+History/
+__Previews/
