@@ -1,0 +1,623 @@
+Change Component Footprint: Designator=C40 Old Footprint=CAPC0402(1005)33_L New Footprint=CAPC0402(1005)33_L
+Change Component Footprint: Designator=C41 Old Footprint=CAPC0402(1005)33_L New Footprint=CAPC0402(1005)33_L
+Change Component Footprint: Designator=C1 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C2 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C6 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C7 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C8 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C9 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C10 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C11 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C12 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C13 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C14 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C15 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C16 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C17 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C19 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C20 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C21 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C22 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C23 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C30 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C31 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C32 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C33 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C34 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C35 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C37 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C39 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C44 Old Footprint=CAPC0402(1005)60_L New Footprint=CAPC0402(1005)60_L
+Change Component Footprint: Designator=C3 Old Footprint=CAPC0805(2012)145_L New Footprint=CAPC0805(2012)145_L
+Change Component Footprint: Designator=C4 Old Footprint=CAPC0805(2012)145_L New Footprint=CAPC0805(2012)145_L
+Change Component Footprint: Designator=C5 Old Footprint=CAPC0805(2012)145_L New Footprint=CAPC0805(2012)145_L
+Change Component Footprint: Designator=U7 Old Footprint=DQM New Footprint=DQM
+Change Component Footprint: Designator=U4 Old Footprint=DQS0020A_V New Footprint=DQS0020A_V
+Change Component Footprint: Designator=U5 Old Footprint=DQS0020A_V New Footprint=DQS0020A_V
+Change Component Footprint: Designator=U6 Old Footprint=DQS0020A_V New Footprint=DQS0020A_V
+Change Component Footprint: Designator=U11 Old Footprint=DRY0006A_V New Footprint=DRY0006A_V
+Change Component Footprint: Designator=U1 Old Footprint=DSG0008A_V New Footprint=DSG0008A_V
+Change Component Footprint: Designator=Y1 Old Footprint=EPSON-FA-128_V New Footprint=EPSON-FA-128_V
+Change Component Footprint: Designator=CN3 Old Footprint=HIRO-DF40C-20DS-0.4V(51)_V New Footprint=HIRO-DF40C-20DS-0.4V(51)_V
+Change Component Footprint: Designator=CN4 Old Footprint=JST-SM06B-SRSS-TB_V New Footprint=JST-SM06B-SRSS-TB_V
+Change Component Footprint: Designator=U9 Old Footprint=NXP-SOT1086-2_L New Footprint=NXP-SOT1086-2_L
+Change Component Footprint: Designator=RN1 Old Footprint=Panasonic_EXB28 New Footprint=Panasonic_EXB28
+Change Component Footprint: Designator=RN2 Old Footprint=Panasonic_EXB28 New Footprint=Panasonic_EXB28
+Change Component Footprint: Designator=RN3 Old Footprint=Panasonic_EXB28 New Footprint=Panasonic_EXB28
+Change Component Footprint: Designator=RN4 Old Footprint=Panasonic_EXB28 New Footprint=Panasonic_EXB28
+Change Component Footprint: Designator=RN5 Old Footprint=Panasonic_EXB28 New Footprint=Panasonic_EXB28
+Change Component Footprint: Designator=RN6 Old Footprint=Panasonic_EXB28 New Footprint=Panasonic_EXB28
+Change Component Footprint: Designator=PTH1 Old Footprint=PTH-M2D5X5 New Footprint=PTH-M2D5X5
+Change Component Footprint: Designator=PTH2 Old Footprint=PTH-M2D5X5 New Footprint=PTH-M2D5X5
+Change Component Footprint: Designator=R1 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R2 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R3 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R4 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R5 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R6 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R7 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R8 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R9 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R10 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R11 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R14 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R15 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R16 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R17 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R18 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R19 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R20 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R21 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R22 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R23 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R24 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R25 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R26 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R27 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R28 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R29 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R30 Old Footprint=RESC0402(1005)_L New Footprint=RESC0402(1005)_L
+Change Component Footprint: Designator=R12 Old Footprint=RESC0603(1608)_L New Footprint=RESC0603(1608)_L
+Change Component Footprint: Designator=R13 Old Footprint=RESC0603(1608)_L New Footprint=RESC0603(1608)_L
+Change Component Footprint: Designator=D1 Old Footprint=ROHM-VMN2-2_V New Footprint=ROHM-VMN2-2_V
+Change Component Footprint: Designator=U3 Old Footprint=SON95P400X75_HS-9N New Footprint=SON95P400X75_HS-9N
+Change Component Footprint: Designator=U8 Old Footprint=STM-DFN-8_V New Footprint=STM-DFN-8_V
+Change Component Footprint: Designator=U10 Old Footprint=STM-DFN-8_V New Footprint=STM-DFN-8_V
+Change Component Footprint: Designator=U12 Old Footprint=STM-LQFP100 New Footprint=STM-LQFP100
+Change Component Footprint: Designator=L1 Old Footprint=TDK-VLS252010_V New Footprint=TDK-VLS252010_V
+Change Component Footprint: Designator=U2 Old Footprint=TI-DQN4-480X480TP_V New Footprint=TI-DQN4-480X480TP_V
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=VCC5 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VCC3 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VCC3 Pin=C3-2
+Added Pin To Net: NetName=VCC_FB Pin=C4-1
+Added Pin To Net: NetName=VCC3 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VCC5 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VCC5 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=VCC3A Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=VCC5 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=VCC3 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VCC3 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=VCC3 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=VCC3 Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=VCC3 Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=VCC3 Pin=C14-2
+Added Pin To Net: NetName=VCC3 Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=VCC3 Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=VCC3A Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=VCC5 Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=VCC5 Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=VCC3A Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=VCC3 Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=VCC5 Pin=C23-2
+Added Pin To Net: NetName=VCC3 Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C30-2
+Added Pin To Net: NetName=VCC3 Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=VCC3 Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=VCC3 Pin=C33-1
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=VCC3 Pin=C34-1
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=VCC3 Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=VCC3A Pin=C37-1
+Added Pin To Net: NetName=GND Pin=C37-2
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=VCC5_SENSE Pin=C39-2
+Added Pin To Net: NetName=FMU_XTAL_OUT Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C40-2
+Added Pin To Net: NetName=FMU_XTAL_IN Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C41-2
+Added Pin To Net: NetName=GND Pin=C44-1
+Added Pin To Net: NetName=RST# Pin=C44-2
+Added Pin To Net: NetName=VCC5 Pin=CN3-1
+Added Pin To Net: NetName=SPWR_ON Pin=CN3-2
+Added Pin To Net: NetName=VCC5 Pin=CN3-3
+Added Pin To Net: NetName=IMU_HEAT_CTL Pin=CN3-4
+Added Pin To Net: NetName=VCC5 Pin=CN3-5
+Added Pin To Net: NetName=SPI1_CS_LIS3# Pin=CN3-6
+Added Pin To Net: NetName=SPI1_CLK Pin=CN3-7
+Added Pin To Net: NetName=MPU_INT# Pin=CN3-8
+Added Pin To Net: NetName=SPI2_MOSI Pin=CN3-9
+Added Pin To Net: NetName=SPI1_MISO Pin=CN3-10
+Added Pin To Net: NetName=ICM_INT# Pin=CN3-11
+Added Pin To Net: NetName=SPI1_MOSI Pin=CN3-12
+Added Pin To Net: NetName=SPI2_MISO Pin=CN3-13
+Added Pin To Net: NetName=SPI2_CLK Pin=CN3-14
+Added Pin To Net: NetName=GND Pin=CN3-15
+Added Pin To Net: NetName=SPI1_CS_MPU# Pin=CN3-16
+Added Pin To Net: NetName=GND Pin=CN3-17
+Added Pin To Net: NetName=SPI1_CS_ICM# Pin=CN3-18
+Added Pin To Net: NetName=GND Pin=CN3-19
+Added Pin To Net: NetName=SPI2_CS_LPS25# Pin=CN3-20
+Added Pin To Net: NetName=VCC3 Pin=CN4-1
+Added Pin To Net: NetName=UART7_TX_MB Pin=CN4-2
+Added Pin To Net: NetName=UART7_RX_MB Pin=CN4-3
+Added Pin To Net: NetName=SWDIO Pin=CN4-4
+Added Pin To Net: NetName=SWDCLK Pin=CN4-5
+Added Pin To Net: NetName=GND Pin=CN4-6
+Added Pin To Net: NetName=GND Pin=CN4-MP1
+Added Pin To Net: NetName=GND Pin=CN4-MP2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=VCC3 Pin=D1-2
+Added Pin To Net: NetName=VCC_SW Pin=L1-1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=GND Pin=PTH1-1
+Added Pin To Net: NetName=GND Pin=PTH2-1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=VCC5 Pin=R1-2
+Added Pin To Net: NetName=VCC_FB Pin=R2-1
+Added Pin To Net: NetName=VCC3 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetR1_1 Pin=R3-2
+Added Pin To Net: NetName=S_AGND Pin=R4-1
+Added Pin To Net: NetName=VCC_FB Pin=R4-2
+Added Pin To Net: NetName=VCC3 Pin=R5-1
+Added Pin To Net: NetName=I2C_SCL_MB Pin=R5-2
+Added Pin To Net: NetName=I2C_SDA_MB Pin=R6-1
+Added Pin To Net: NetName=VCC3 Pin=R6-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=I2C_SCL_MB Pin=R7-2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=I2C_SDA_MB Pin=R8-2
+Added Pin To Net: NetName=BAT_VOLTAGE_MB_R Pin=R9-1
+Added Pin To Net: NetName=BAT_VOLTAGE_MB Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=BAT_VOLTAGE_MB_R Pin=R10-2
+Added Pin To Net: NetName=BAT_VOLTAGE_MB Pin=R11-1
+Added Pin To Net: NetName=BAT_VOLTAGE Pin=R11-2
+Added Pin To Net: NetName=CAN1_DN Pin=R12-1
+Added Pin To Net: NetName=CAN1_DP Pin=R12-2
+Added Pin To Net: NetName=CAN2_DN Pin=R13-1
+Added Pin To Net: NetName=CAN2_DP Pin=R13-2
+Added Pin To Net: NetName=BAT_CURRENT_MB_R Pin=R14-1
+Added Pin To Net: NetName=BAT_CURRENT_MB Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=BAT_CURRENT_MB_R Pin=R15-2
+Added Pin To Net: NetName=BAT_CURRENT_MB Pin=R16-1
+Added Pin To Net: NetName=BAT_CURRENT Pin=R16-2
+Added Pin To Net: NetName=RC_INPUT Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R17-2
+Added Pin To Net: NetName=FMU_VBAT Pin=R18-1
+Added Pin To Net: NetName=NetD1_1 Pin=R18-2
+Added Pin To Net: NetName=RST# Pin=R19-1
+Added Pin To Net: NetName=VCC3 Pin=R19-2
+Added Pin To Net: NetName=VCC5_SENSE Pin=R21-1
+Added Pin To Net: NetName=VCC5 Pin=R21-2
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=VCC5_SENSE Pin=R22-2
+Added Pin To Net: NetName=VCC5_SENSE_B Pin=R23-1
+Added Pin To Net: NetName=VCC5 Pin=R23-2
+Added Pin To Net: NetName=USB_VBUS Pin=R24-1
+Added Pin To Net: NetName=USB_VBUS_SENSE Pin=R24-2
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=VCC5_SENSE_B Pin=R25-2
+Added Pin To Net: NetName=RSSI_IN_R Pin=R26-1
+Added Pin To Net: NetName=RSSI_IN Pin=R26-2
+Added Pin To Net: NetName=GND Pin=R27-1
+Added Pin To Net: NetName=RSSI_IN_R Pin=R27-2
+Added Pin To Net: NetName=GND Pin=R28-1
+Added Pin To Net: NetName=BOOT1 Pin=R28-2
+Added Pin To Net: NetName=GND Pin=R29-1
+Added Pin To Net: NetName=BOOT Pin=R29-2
+Added Pin To Net: NetName=SS_SW Pin=R30-1
+Added Pin To Net: NetName=GND Pin=R30-2
+Added Pin To Net: NetName=NetRN1_1 Pin=RN1-1
+Added Pin To Net: NetName=NetRN1_2 Pin=RN1-2
+Added Pin To Net: NetName=NetRN1_3 Pin=RN1-3
+Added Pin To Net: NetName=NetRN1_4 Pin=RN1-4
+Added Pin To Net: NetName=MB_ESC_M2 Pin=RN1-5
+Added Pin To Net: NetName=MB_ESC_M1 Pin=RN1-6
+Added Pin To Net: NetName=UART7_TX_MB Pin=RN1-7
+Added Pin To Net: NetName=UART7_RX_MB Pin=RN1-8
+Added Pin To Net: NetName=NetRN2_1 Pin=RN2-1
+Added Pin To Net: NetName=NetRN2_2 Pin=RN2-2
+Added Pin To Net: NetName=NetRN2_3 Pin=RN2-3
+Added Pin To Net: NetName=NetRN2_4 Pin=RN2-4
+Added Pin To Net: NetName=MB_ESC_M6 Pin=RN2-5
+Added Pin To Net: NetName=MB_ESC_M5 Pin=RN2-6
+Added Pin To Net: NetName=MB_ESC_M4 Pin=RN2-7
+Added Pin To Net: NetName=MB_ESC_M3 Pin=RN2-8
+Added Pin To Net: NetName=NetRN3_1 Pin=RN3-1
+Added Pin To Net: NetName=NetRN3_2 Pin=RN3-2
+Added Pin To Net: NetName=NetRN3_3 Pin=RN3-3
+Added Pin To Net: NetName=NetRN3_4 Pin=RN3-4
+Added Pin To Net: NetName=UART8_TX_MB Pin=RN3-5
+Added Pin To Net: NetName=UART8_RX_MB Pin=RN3-6
+Added Pin To Net: NetName=UART4_TX_MB Pin=RN3-7
+Added Pin To Net: NetName=UART4_RX_MB Pin=RN3-8
+Added Pin To Net: NetName=NetRN4_1 Pin=RN4-1
+Added Pin To Net: NetName=NetRN4_2 Pin=RN4-2
+Added Pin To Net: NetName=NetRN4_3 Pin=RN4-3
+Added Pin To Net: NetName=NetRN4_4 Pin=RN4-4
+Added Pin To Net: NetName=UART1_TX_MB Pin=RN4-5
+Added Pin To Net: NetName=UART1_RX_MB Pin=RN4-6
+Added Pin To Net: NetName=UART1_CTS_MB Pin=RN4-7
+Added Pin To Net: NetName=UART1_RTS_MB Pin=RN4-8
+Added Pin To Net: NetName=NetRN5_1 Pin=RN5-1
+Added Pin To Net: NetName=NetRN5_2 Pin=RN5-2
+Added Pin To Net: NetName=NetRN5_3 Pin=RN5-3
+Added Pin To Net: NetName=NetRN5_4 Pin=RN5-4
+Added Pin To Net: NetName=UART3_TX_MB Pin=RN5-5
+Added Pin To Net: NetName=UART3_RX_MB Pin=RN5-6
+Added Pin To Net: NetName=UART3_CTS_MB Pin=RN5-7
+Added Pin To Net: NetName=UART3_RTS_MB Pin=RN5-8
+Added Pin To Net: NetName=NetRN6_1 Pin=RN6-1
+Added Pin To Net: NetName=NetRN6_2 Pin=RN6-2
+Added Pin To Net: NetName=NetRN6_3 Pin=RN6-3
+Added Pin To Net: NetName=NetRN6_4 Pin=RN6-4
+Added Pin To Net: NetName=UART2_TX_MB Pin=RN6-5
+Added Pin To Net: NetName=UART2_RX_MB Pin=RN6-6
+Added Pin To Net: NetName=UART2_CTS_MB Pin=RN6-7
+Added Pin To Net: NetName=UART2_RTS_MB Pin=RN6-8
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=VCC_SW Pin=U1-2
+Added Pin To Net: NetName=S_AGND Pin=U1-3
+Added Pin To Net: NetName=VCC_FB Pin=U1-4
+Added Pin To Net: NetName=VCC5 Pin=U1-5
+Added Pin To Net: NetName=NetR1_1 Pin=U1-6
+Added Pin To Net: NetName=VCC5 Pin=U1-7
+Added Pin To Net: NetName=VCC5 Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=VCC3A Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=VCC5 Pin=U2-3
+Added Pin To Net: NetName=VCC5 Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=SPI2_CS_FRAM# Pin=U3-1
+Added Pin To Net: NetName=SPI2_MISO Pin=U3-2
+Added Pin To Net: NetName=VCC3 Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=SPI2_MOSI Pin=U3-5
+Added Pin To Net: NetName=SPI2_CLK Pin=U3-6
+Added Pin To Net: NetName=VCC3 Pin=U3-7
+Added Pin To Net: NetName=VCC3 Pin=U3-8
+Added Pin To Net: NetName=UART7_RX Pin=U4-1
+Added Pin To Net: NetName=UART7_TX Pin=U4-2
+Added Pin To Net: NetName=ESC_M1 Pin=U4-3
+Added Pin To Net: NetName=ESC_M2 Pin=U4-4
+Added Pin To Net: NetName=VCC3 Pin=U4-5
+Added Pin To Net: NetName=VCC3 Pin=U4-6
+Added Pin To Net: NetName=ESC_M3 Pin=U4-7
+Added Pin To Net: NetName=ESC_M4 Pin=U4-8
+Added Pin To Net: NetName=ESC_M5 Pin=U4-9
+Added Pin To Net: NetName=ESC_M6 Pin=U4-10
+Added Pin To Net: NetName=NetRN2_4 Pin=U4-11
+Added Pin To Net: NetName=NetRN2_3 Pin=U4-12
+Added Pin To Net: NetName=NetRN2_2 Pin=U4-13
+Added Pin To Net: NetName=NetRN2_1 Pin=U4-14
+Added Pin To Net: NetName=GND Pin=U4-15
+Added Pin To Net: NetName=VCC3 Pin=U4-16
+Added Pin To Net: NetName=NetRN1_4 Pin=U4-17
+Added Pin To Net: NetName=NetRN1_3 Pin=U4-18
+Added Pin To Net: NetName=NetRN1_2 Pin=U4-19
+Added Pin To Net: NetName=NetRN1_1 Pin=U4-20
+Added Pin To Net: NetName=UART4_RX Pin=U5-1
+Added Pin To Net: NetName=UART4_TX Pin=U5-2
+Added Pin To Net: NetName=UART8_RX Pin=U5-3
+Added Pin To Net: NetName=UART8_TX Pin=U5-4
+Added Pin To Net: NetName=VCC3 Pin=U5-5
+Added Pin To Net: NetName=VCC3 Pin=U5-6
+Added Pin To Net: NetName=UART1_RTS Pin=U5-7
+Added Pin To Net: NetName=UART1_CTS Pin=U5-8
+Added Pin To Net: NetName=UART1_RX Pin=U5-9
+Added Pin To Net: NetName=UART1_TX Pin=U5-10
+Added Pin To Net: NetName=NetRN4_4 Pin=U5-11
+Added Pin To Net: NetName=NetRN4_3 Pin=U5-12
+Added Pin To Net: NetName=NetRN4_2 Pin=U5-13
+Added Pin To Net: NetName=NetRN4_1 Pin=U5-14
+Added Pin To Net: NetName=GND Pin=U5-15
+Added Pin To Net: NetName=VCC3 Pin=U5-16
+Added Pin To Net: NetName=NetRN3_4 Pin=U5-17
+Added Pin To Net: NetName=NetRN3_3 Pin=U5-18
+Added Pin To Net: NetName=NetRN3_2 Pin=U5-19
+Added Pin To Net: NetName=NetRN3_1 Pin=U5-20
+Added Pin To Net: NetName=UART3_RTS Pin=U6-1
+Added Pin To Net: NetName=UART3_CTS Pin=U6-2
+Added Pin To Net: NetName=UART3_RX Pin=U6-3
+Added Pin To Net: NetName=UART3_TX Pin=U6-4
+Added Pin To Net: NetName=VCC3 Pin=U6-5
+Added Pin To Net: NetName=VCC3 Pin=U6-6
+Added Pin To Net: NetName=UART2_RTS Pin=U6-7
+Added Pin To Net: NetName=UART2_CTS Pin=U6-8
+Added Pin To Net: NetName=UART2_RX Pin=U6-9
+Added Pin To Net: NetName=UART2_TX Pin=U6-10
+Added Pin To Net: NetName=NetRN6_4 Pin=U6-11
+Added Pin To Net: NetName=NetRN6_3 Pin=U6-12
+Added Pin To Net: NetName=NetRN6_2 Pin=U6-13
+Added Pin To Net: NetName=NetRN6_1 Pin=U6-14
+Added Pin To Net: NetName=GND Pin=U6-15
+Added Pin To Net: NetName=VCC3 Pin=U6-16
+Added Pin To Net: NetName=NetRN5_4 Pin=U6-17
+Added Pin To Net: NetName=NetRN5_3 Pin=U6-18
+Added Pin To Net: NetName=NetRN5_2 Pin=U6-19
+Added Pin To Net: NetName=NetRN5_1 Pin=U6-20
+Added Pin To Net: NetName=VCC3 Pin=U7-1
+Added Pin To Net: NetName=I2C_SCL Pin=U7-2
+Added Pin To Net: NetName=I2C_SDA Pin=U7-3
+Added Pin To Net: NetName=GND Pin=U7-4
+Added Pin To Net: NetName=VCC3 Pin=U7-5
+Added Pin To Net: NetName=NetR8_1 Pin=U7-6
+Added Pin To Net: NetName=NetR7_1 Pin=U7-7
+Added Pin To Net: NetName=VCC3 Pin=U7-8
+Added Pin To Net: NetName=BAT_VOLTAGE Pin=U8-1
+Added Pin To Net: NetName=BAT_VOLTAGE_MB_R Pin=U8-2
+Added Pin To Net: NetName=BAT_VOLTAGE Pin=U8-4
+Added Pin To Net: NetName=GND Pin=U8-5
+Added Pin To Net: NetName=VCC3A Pin=U8-6
+Added Pin To Net: NetName=CAN1_TX Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=VCC5 Pin=U9-3
+Added Pin To Net: NetName=CAN1_RX Pin=U9-4
+Added Pin To Net: NetName=CAN2_TX Pin=U9-5
+Added Pin To Net: NetName=GND Pin=U9-6
+Added Pin To Net: NetName=VCC5 Pin=U9-7
+Added Pin To Net: NetName=CAN2_RX Pin=U9-8
+Added Pin To Net: NetName=CAN2_DN Pin=U9-9
+Added Pin To Net: NetName=CAN2_DP Pin=U9-10
+Added Pin To Net: NetName=GND Pin=U9-11
+Added Pin To Net: NetName=CAN1_DN Pin=U9-12
+Added Pin To Net: NetName=CAN1_DP Pin=U9-13
+Added Pin To Net: NetName=GND Pin=U9-14
+Added Pin To Net: NetName=GND Pin=U9-15
+Added Pin To Net: NetName=BAT_CURRENT Pin=U10-1
+Added Pin To Net: NetName=BAT_CURRENT_MB_R Pin=U10-2
+Added Pin To Net: NetName=BAT_CURRENT Pin=U10-4
+Added Pin To Net: NetName=GND Pin=U10-5
+Added Pin To Net: NetName=VCC3A Pin=U10-6
+Added Pin To Net: NetName=SBUS_INV Pin=U11-1
+Added Pin To Net: NetName=GND Pin=U11-2
+Added Pin To Net: NetName=SBUS_INV Pin=U11-3
+Added Pin To Net: NetName=FMU_RC_INPUT Pin=U11-4
+Added Pin To Net: NetName=VCC3 Pin=U11-5
+Added Pin To Net: NetName=RC_INPUT Pin=U11-6
+Added Pin To Net: NetName=EXT_SPI_SCK Pin=U12-1
+Added Pin To Net: NetName=SPWR_ON Pin=U12-2
+Added Pin To Net: NetName=RC_PWR3_ON# Pin=U12-3
+Added Pin To Net: NetName=EXT_SPI_MISO Pin=U12-4
+Added Pin To Net: NetName=EXT_SPI_MOSI Pin=U12-5
+Added Pin To Net: NetName=FMU_VBAT Pin=U12-6
+Added Pin To Net: NetName=SBUS_INV Pin=U12-7
+Added Pin To Net: NetName=ICM_INT# Pin=U12-8
+Added Pin To Net: NetName=SPI1_CS_ICM# Pin=U12-9
+Added Pin To Net: NetName=GND Pin=U12-10
+Added Pin To Net: NetName=VCC3 Pin=U12-11
+Added Pin To Net: NetName=FMU_XTAL_IN Pin=U12-12
+Added Pin To Net: NetName=FMU_XTAL_OUT Pin=U12-13
+Added Pin To Net: NetName=RST# Pin=U12-14
+Added Pin To Net: NetName=USB_VBUS_SENSE Pin=U12-15
+Added Pin To Net: NetName=RSSI_IN_R Pin=U12-16
+Added Pin To Net: NetName=SPI1_CS_MPU# Pin=U12-17
+Added Pin To Net: NetName=SS_LED Pin=U12-18
+Added Pin To Net: NetName=VCC3 Pin=U12-19
+Added Pin To Net: NetName=GND Pin=U12-20
+Added Pin To Net: NetName=FMU_AREF Pin=U12-21
+Added Pin To Net: NetName=VCC3A Pin=U12-22
+Added Pin To Net: NetName=UART4_TX Pin=U12-23
+Added Pin To Net: NetName=UART4_RX Pin=U12-24
+Added Pin To Net: NetName=BAT_VOLTAGE Pin=U12-25
+Added Pin To Net: NetName=BAT_CURRENT Pin=U12-26
+Added Pin To Net: NetName=GND Pin=U12-27
+Added Pin To Net: NetName=VCC3 Pin=U12-28
+Added Pin To Net: NetName=VCC5_SENSE Pin=U12-29
+Added Pin To Net: NetName=SPI1_CLK Pin=U12-30
+Added Pin To Net: NetName=SPI1_MISO Pin=U12-31
+Added Pin To Net: NetName=SPI1_MOSI Pin=U12-32
+Added Pin To Net: NetName=SS_SW Pin=U12-33
+Added Pin To Net: NetName=BPWR_ON Pin=U12-34
+Added Pin To Net: NetName=RC_INPUT Pin=U12-35
+Added Pin To Net: NetName=-LED_G Pin=U12-36
+Added Pin To Net: NetName=BOOT1 Pin=U12-37
+Added Pin To Net: NetName=UART7_RX Pin=U12-38
+Added Pin To Net: NetName=UART7_TX Pin=U12-39
+Added Pin To Net: NetName=ESC_M4 Pin=U12-40
+Added Pin To Net: NetName=UART1_CTS Pin=U12-41
+Added Pin To Net: NetName=ESC_M3 Pin=U12-42
+Added Pin To Net: NetName=EXT_SPI_CS# Pin=U12-43
+Added Pin To Net: NetName=ESC_M2 Pin=U12-44
+Added Pin To Net: NetName=ESC_M1 Pin=U12-45
+Added Pin To Net: NetName=SPI1_CS_LIS3# Pin=U12-46
+Added Pin To Net: NetName=SPI2_CLK Pin=U12-47
+Added Pin To Net: NetName=-LED_R Pin=U12-48
+Added Pin To Net: NetName=VCAP1 Pin=U12-49
+Added Pin To Net: NetName=VCC3 Pin=U12-50
+Added Pin To Net: NetName=CAN2_RX Pin=U12-51
+Added Pin To Net: NetName=CAN2_TX Pin=U12-52
+Added Pin To Net: NetName=SPI2_MISO Pin=U12-53
+Added Pin To Net: NetName=SPI2_MOSI Pin=U12-54
+Added Pin To Net: NetName=UART3_TX Pin=U12-55
+Added Pin To Net: NetName=UART3_RX Pin=U12-56
+Added Pin To Net: NetName=SPI2_CS_FRAM# Pin=U12-57
+Added Pin To Net: NetName=UART3_CTS Pin=U12-58
+Added Pin To Net: NetName=UART3_RTS Pin=U12-59
+Added Pin To Net: NetName=ESC_M5 Pin=U12-60
+Added Pin To Net: NetName=ESC_M6 Pin=U12-61
+Added Pin To Net: NetName=MPU_INT# Pin=U12-62
+Added Pin To Net: NetName=IMU_HEAT_CTL Pin=U12-63
+Added Pin To Net: NetName=FMU_RC_INPUT Pin=U12-64
+Added Pin To Net: NetName=SDIO_D0 Pin=U12-65
+Added Pin To Net: NetName=SDIO_D1 Pin=U12-66
+Added Pin To Net: NetName=UART1_RTS Pin=U12-67
+Added Pin To Net: NetName=USB_VBUS Pin=U12-68
+Added Pin To Net: NetName=GPIO2 Pin=U12-69
+Added Pin To Net: NetName=USB_N Pin=U12-70
+Added Pin To Net: NetName=USB_P Pin=U12-71
+Added Pin To Net: NetName=SWDIO Pin=U12-72
+Added Pin To Net: NetName=VCAP2 Pin=U12-73
+Added Pin To Net: NetName=GND Pin=U12-74
+Added Pin To Net: NetName=VCC3 Pin=U12-75
+Added Pin To Net: NetName=SWDCLK Pin=U12-76
+Added Pin To Net: NetName=BUZZ Pin=U12-77
+Added Pin To Net: NetName=SDIO_D2 Pin=U12-78
+Added Pin To Net: NetName=SDIO_D3 Pin=U12-79
+Added Pin To Net: NetName=SDIO_CLK Pin=U12-80
+Added Pin To Net: NetName=CAN1_RX Pin=U12-81
+Added Pin To Net: NetName=CAN1_TX Pin=U12-82
+Added Pin To Net: NetName=SDIO_CMD Pin=U12-83
+Added Pin To Net: NetName=UART2_CTS Pin=U12-84
+Added Pin To Net: NetName=UART2_RTS Pin=U12-85
+Added Pin To Net: NetName=UART2_TX Pin=U12-86
+Added Pin To Net: NetName=UART2_RX Pin=U12-87
+Added Pin To Net: NetName=SPI2_CS_LPS25# Pin=U12-88
+Added Pin To Net: NetName=-LED_B Pin=U12-89
+Added Pin To Net: NetName=GPIO1 Pin=U12-90
+Added Pin To Net: NetName=VCC5_SENSE_B Pin=U12-91
+Added Pin To Net: NetName=UART1_TX Pin=U12-92
+Added Pin To Net: NetName=UART1_RX Pin=U12-93
+Added Pin To Net: NetName=BOOT Pin=U12-94
+Added Pin To Net: NetName=I2C_SCL Pin=U12-95
+Added Pin To Net: NetName=I2C_SDA Pin=U12-96
+Added Pin To Net: NetName=UART8_RX Pin=U12-97
+Added Pin To Net: NetName=UART8_TX Pin=U12-98
+Added Pin To Net: NetName=GND Pin=U12-99
+Added Pin To Net: NetName=VCC3 Pin=U12-100
+Added Pin To Net: NetName=FMU_XTAL_IN Pin=Y1-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=FMU_XTAL_OUT Pin=Y1-3
+Added Pin To Net: NetName=GND Pin=Y1-4
+Change Net Color : Old Net Color=Aqua New Net Color=Default
+Change Net Color : Old Net Color=Aqua New Net Color=Default
+Change Net Color : Old Net Color=Aqua New Net Color=Default
+Added Member To Class: ClassName=2_mb_conn Member=Component C1 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=2_mb_conn Member=Component C2 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=3_power Member=Component C3 Capacitor 22µF +/-40% 16V 0805
+Added Member To Class: ClassName=3_power Member=Component C4 Capacitor 22µF +/-40% 16V 0805
+Added Member To Class: ClassName=3_power Member=Component C5 Capacitor 22µF +/-40% 16V 0805
+Added Member To Class: ClassName=3_power Member=Component C6 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=3_power Member=Component C7 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=3_power Member=Component C8 Capacitor 22pF +/-10% 50V 0402
+Added Member To Class: ClassName=5_spi_memory Member=Component C9 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=6_uart_esc_i2c Member=Component C10 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=6_uart_esc_i2c Member=Component C11 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=6_uart_esc_i2c Member=Component C12 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=6_uart_esc_i2c Member=Component C13 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=6_uart_esc_i2c Member=Component C14 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=6_uart_esc_i2c Member=Component C15 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component C16 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component C17 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component C18 Capacitor 2,2µF +/-20% 10V 0402
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component C19 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component C20 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component C21 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component C22 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=8_imu&debug_conn Member=Component C23 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=4_cpu Member=Component C24 Capacitor 100µF +/-20% 6.3V 0805
+Added Member To Class: ClassName=4_cpu Member=Component C25 Capacitor 100µF +/-20% 6.3V 0805
+Added Member To Class: ClassName=4_cpu Member=Component C26 Capacitor 100µF +/-20% 6.3V 0805
+Added Member To Class: ClassName=4_cpu Member=Component C27 Capacitor 100µF +/-20% 6.3V 0805
+Added Member To Class: ClassName=4_cpu Member=Component C28 Capacitor 2,2µF +/-20% 10V 0402
+Added Member To Class: ClassName=4_cpu Member=Component C29 Capacitor 2,2µF +/-20% 10V 0402
+Added Member To Class: ClassName=4_cpu Member=Component C30 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=4_cpu Member=Component C31 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=4_cpu Member=Component C32 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=4_cpu Member=Component C33 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=4_cpu Member=Component C34 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=4_cpu Member=Component C35 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=4_cpu Member=Component C36 Capacitor 2,2µF +/-20% 10V 0402
+Added Member To Class: ClassName=4_cpu Member=Component C37 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=4_cpu Member=Component C38 Capacitor 2,2µF +/-20% 10V 0402
+Added Member To Class: ClassName=4_cpu Member=Component C39 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=4_cpu Member=Component C40 Capacitor 12pF +/-10% 50V 0402
+Added Member To Class: ClassName=4_cpu Member=Component C41 Capacitor 12pF +/-10% 50V 0402
+Added Member To Class: ClassName=4_cpu Member=Component C42 Capacitor 2,2µF +/-20% 10V 0402
+Added Member To Class: ClassName=4_cpu Member=Component C43 Capacitor 2,2µF +/-20% 10V 0402
+Added Member To Class: ClassName=4_cpu Member=Component C44 Capacitor 100nF +/-20% 10V 0402
+Added Member To Class: ClassName=2_mb_conn Member=Component CN1 DF12(3.0)-50DS-0.5V(86)
+Added Member To Class: ClassName=2_mb_conn Member=Component CN2 DF12(3.0)-50DS-0.5V(86)
+Added Member To Class: ClassName=8_imu&debug_conn Member=Component CN3 DF40C-20DS-0.4V(51)
+Added Member To Class: ClassName=8_imu&debug_conn Member=Component CN4 SM06B-SRSS-TB
+Added Member To Class: ClassName=4_cpu Member=Component D1 1SS400CSFH
+Added Member To Class: ClassName=3_power Member=Component L1 VLS252010HBX-2R2M-1
+Added Member To Class: ClassName=2_mb_conn Member=Component PTH1 PTH-M2D5X5
+Added Member To Class: ClassName=2_mb_conn Member=Component PTH2 PTH-M2D5X5
+Added Member To Class: ClassName=3_power Member=Component R1 Jumper 0402
+Added Member To Class: ClassName=3_power Member=Component R2 Resistor 383K +/-1 % 0402 63 mW
+Added Member To Class: ClassName=3_power Member=Component R3 Resistor 1K +/-5 % 0402 63 mW
+Added Member To Class: ClassName=3_power Member=Component R4 Resistor 84K5 +/-1 % 0402 63 mW
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component R5 Resistor 2K2  +/-5 % 0402 63 mW
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component R6 Resistor 2K2  +/-5 % 0402 63 mW
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component R7 Resistor 200R +/-5 % 0402 63 mW
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component R8 Resistor 200R +/-5 % 0402 63 mW
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component R9 Resistor 1K +/-5 % 0402 63 mW
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component R10 Resistor 1M +/-5 % 0402 63 mW
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component R11 Resistor 200R +/-5 % 0402 63 mW
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component R12 Resistor 120R +/-5 % 0603 0.1 W
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component R13 Resistor 120R +/-5 % 0603 0.1 W
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component R14 Resistor 1K +/-5 % 0402 63 mW
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component R15 Resistor 1M +/-5 % 0402 63 mW
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component R16 Resistor 200R +/-5 % 0402 63 mW
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component R17 Resistor 1M +/-5 % 0402 63 mW
+Added Member To Class: ClassName=4_cpu Member=Component R18 Resistor 1K +/-5 % 0402 63 mW
+Added Member To Class: ClassName=4_cpu Member=Component R19 Resistor 10K  +/-1 % 0402 63 mW
+Added Member To Class: ClassName=4_cpu Member=Component R20 Resistor 100R +/-1 % 0402 63 mW
+Added Member To Class: ClassName=4_cpu Member=Component R21 Resistor 10K  +/-1 % 0402 63 mW
+Added Member To Class: ClassName=4_cpu Member=Component R22 Resistor 10K  +/-1 % 0402 63 mW
+Added Member To Class: ClassName=4_cpu Member=Component R23 Resistor 4K7  +/-1 % 0402 63 mW
+Added Member To Class: ClassName=4_cpu Member=Component R24 Resistor 10K  +/-1 % 0402 63 mW
+Added Member To Class: ClassName=4_cpu Member=Component R25 Resistor 4K7  +/-1 % 0402 63 mW
+Added Member To Class: ClassName=4_cpu Member=Component R26 Resistor 10K  +/-1 % 0402 63 mW
+Added Member To Class: ClassName=4_cpu Member=Component R27 Resistor 1M +/-5 % 0402 63 mW
+Added Member To Class: ClassName=4_cpu Member=Component R28 Resistor 10K  +/-1 % 0402 63 mW
+Added Member To Class: ClassName=4_cpu Member=Component R29 Resistor 10K  +/-1 % 0402 63 mW
+Added Member To Class: ClassName=4_cpu Member=Component R30 Resistor 4K7  +/-1 % 0402 63 mW
+Added Member To Class: ClassName=6_uart_esc_i2c Member=Component RN1 Resistor 200R +/-5% 0402 62.5 mW
+Added Member To Class: ClassName=6_uart_esc_i2c Member=Component RN2 Resistor 200R +/-5% 0402 62.5 mW
+Added Member To Class: ClassName=6_uart_esc_i2c Member=Component RN3 Resistor 200R +/-5% 0402 62.5 mW
+Added Member To Class: ClassName=6_uart_esc_i2c Member=Component RN4 Resistor 200R +/-5% 0402 62.5 mW
+Added Member To Class: ClassName=6_uart_esc_i2c Member=Component RN5 Resistor 200R +/-5% 0402 62.5 mW
+Added Member To Class: ClassName=6_uart_esc_i2c Member=Component RN6 Resistor 200R +/-5% 0402 62.5 mW
+Added Member To Class: ClassName=3_power Member=Component U1 TPS62060DSG
+Added Member To Class: ClassName=3_power Member=Component U2 LP5907SNX-3.3
+Added Member To Class: ClassName=5_spi_memory Member=Component U3 FM25V02A-DGTR
+Added Member To Class: ClassName=6_uart_esc_i2c Member=Component U4 TXB0108DQSR
+Added Member To Class: ClassName=6_uart_esc_i2c Member=Component U5 TXB0108DQSR
+Added Member To Class: ClassName=6_uart_esc_i2c Member=Component U6 TXB0108DQSR
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component U7 TXS0102DQMR
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component U8 TSV991AIQ1T
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component U9 TJA1046
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component U10 TSV991AIQ1T
+Added Member To Class: ClassName=7_can_rc_i2c_analog Member=Component U11 SN74LVC1G58DRYR
+Added Member To Class: ClassName=4_cpu Member=Component U12 STM32F427VIT6
+Added Member To Class: ClassName=4_cpu Member=Component Y1 FA-12824.0000MF10Z-W3
