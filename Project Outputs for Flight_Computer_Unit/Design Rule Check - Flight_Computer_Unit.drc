@@ -1,0 +1,62 @@
+Protel Design System Design Rule Check
+PCB File : E:\Chihab\PCB_Dev\Altium\Flight_Computer_Unit\Flight_Computer_Unit.PcbDoc
+Date     : 10/20/2022
+Time     : 10:32:47 PM
+
+Processing Rule : Clearance Constraint (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=1mm) (Preferred=0.15mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.14mm) (Max=1mm) (Preferred=0.4mm) (InNetClass('Power'))
+Rule Violations :0
+
+Processing Rule : SMD Neck-Down Constraint (Percent=100%) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.15mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Waived Violations Of Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Pad C5-1(6.7mm,19.2mm) on Bottom Layer And Track (6.1mm,19.15mm)(6.6mm,19.15mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]Waived by Chihabeddine FORTAS at 10/20/2022 10:16:27 PMunimportant due to footprint mistakes
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.1mm) Between Pad C5-1(6.7mm,19.2mm) on Bottom Layer And Track (6.6mm,19.15mm)(6.6mm,19.65mm) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mm]Waived by Chihabeddine FORTAS at 10/20/2022 10:16:22 PMunimportant due to footprint mistakes
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (0.025mm < 0.1mm) Between Pad R17-2(25.2mm,26.35mm) on Top Layer And Track (25mm,25.5mm)(25mm,26mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.025mm]Waived by Chihabeddine FORTAS at 10/20/2022 10:10:32 PMunimportant due to footprint mistakes
+   Waived Violation between Silk To Solder Mask Clearance Constraint: (0.025mm < 0.1mm) Between Pad R17-2(25.2mm,26.35mm) on Top Layer And Track (25mm,26mm)(25.5mm,26mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.025mm]Waived by Chihabeddine FORTAS at 10/20/2022 10:16:49 PMunimportant due to footprint mistakes
+Waived Violations :4
+
+
+Violations Detected : 0
+Waived Violations : 4
+PCB Health Issues : 0
+Time Elapsed        : 00:00:04

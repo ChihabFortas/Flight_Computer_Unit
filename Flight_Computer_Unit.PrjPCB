@@ -255,13 +255,51 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CLNVORID
 
-[Parameter1]
-Name=ProjectRev
-Value=2
+[Document13]
+DocumentPath=FCU_BoardLayout.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TIQTKNMB
 
-[Parameter2]
+[Document14]
+DocumentPath=FCU_Assambly.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XORBAJHW
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Flight_Computer_Unit\Design Rule Check - Flight_Computer_Unit.html
+DItemRevisionGUID=
+
+[Parameter1]
 Name=Project
 Value=KAME_FMU
+
+[Parameter2]
+Name=ProjectRev
+Value=2
 
 [Configuration1]
 Name=Sources
